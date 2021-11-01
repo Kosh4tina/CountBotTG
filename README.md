@@ -1,4 +1,4 @@
-# CountBot TG
+# Count Bot on JavaScript
 
 ### Referenced Documentation
 
