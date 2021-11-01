@@ -2,7 +2,7 @@
 
 ### Referenced Documentation
 
-* [Official Telegram documentation] (https://core.telegram.org/bots)
+* [Official Telegram documentation](https://core.telegram.org/bots)
 
 ### Getting start
 
