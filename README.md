@@ -9,6 +9,6 @@
 * Download project
 * cd CountBotTG
 * npm install
-* change const token on your
+* Change const token on your
 * npm run dev
-* enjoy!
+* Enjoy!
